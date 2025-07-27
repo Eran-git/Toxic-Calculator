@@ -1,0 +1,31 @@
+#container{
+    -fx-background-color: black;
+}
+
+#display{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 10px
+}
+
+.button {
+    -fx-background-color: gray;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: magenta;
+}
+
+#btnClear {
+    -fx-background-color: red;
+}
+
+#sum, #minus, #multiply, #divide {
+    -fx-background-color: orange;
+}
+
+#equal{
+    -fx-background-color: skyblue;
+}
+
